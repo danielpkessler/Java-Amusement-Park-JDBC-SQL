@@ -1,12 +1,3 @@
-/*
- * AUTEURS : DANIEL KESSLER & YASSINE BELADEL
- * FICHIER : Classe UserData TP3
- * COURS : IFT 1176
- * 
- * Cette classe contient l'information pour se connecter
- * à la base de données.
- */
-
 public class UserData {
 
 	// URL de la base de données.
