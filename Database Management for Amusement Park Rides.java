@@ -1,12 +1,3 @@
-/*
- * AUTEURS : DANIEL KESSLER & YASSINE BELADEL
- * FICHIER : Classe BDDGestion TP3
- * COURS : IFT 1176
- * 
- * Cette classe a pour but de gérer les liens avec une base de données.
- * Elle se connecte à la base de données, à partir d'un URL.
- */
-
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
