@@ -1,12 +1,3 @@
-/*
- * AUTEURS : DANIEL KESSLER & YASSINE BELADEL
- * FICHIER : Classe MainClass TP3
- * COURS : IFT 1176
- * 
- * Cette classe est la classe principale du code, elle contient 
- * la méthode "main".
- */
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
