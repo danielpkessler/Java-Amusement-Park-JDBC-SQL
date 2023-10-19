@@ -1,14 +1,3 @@
-/*
- * AUTEURS : DANIEL KESSLER & YASSINE BELADEL
- * FICHIER : Classe Manege TP3
- * COURS : IFT 1176
- * 
- * La classe manege a pour but de définit les attributs d'un manège.
- * On implémente la classe comparable pour pouvoir comparer des
- * manèges entre eux.
- */
-
-
 public class Manege implements Comparable<Manege> {
 	private String nom;
 	private double vitesse, hauteur;
