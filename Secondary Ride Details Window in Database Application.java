@@ -1,14 +1,3 @@
-/*
- * AUTEURS : DANIEL KESSLER & YASSINE BELADEL
- * FICHIER : Classe ManegeInfo TP3
- * COURS : IFT 1176
- * 
- * Le but de cette classe est de créer fenêtre secondaireavec les
- * informations (attributs) sur les manèges de la base de données.
- * La fenêtre prinicpale est réaffichée quand la fenêtre des parcs
- * est fermée.
- */
-
 import java.awt.BorderLayout;
 import java.awt.Container;
 import java.awt.FlowLayout;
