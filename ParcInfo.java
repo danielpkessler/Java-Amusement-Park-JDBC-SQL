@@ -1,14 +1,3 @@
-/*
- * AUTEURS : DANIEL KESSLER & YASSINE BELADEL
- * FICHIER : Classe ParcInfo TP3
- * COURS : IFT 1176
- * 
- * Le but de cette classe est de créer fenêtre secondaireavec les
- * informations sur les parcs de la base de données.
- * La fenêtre prinicpale est réaffichée quand la fenêtre des manèges
- * est fermée. 
- */
-
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
